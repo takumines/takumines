@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumines)](https://github.com/anuraghazra/github-readme-stats)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumines&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumines&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **takumines/takumines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
